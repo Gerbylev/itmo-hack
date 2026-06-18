@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and local agent state
+.idea/
+.vscode/
+.claude/
+.cursor/
+
+# Data and model artifacts
+*.pkl
+*.pickle
+*.faiss
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.tar.gz
+*.zip
+*.mp4
+*.mkv
+*.webm
+*.avi
+
+# Generated submissions and logs
+*.csv
+*.log
+outputs/
+output/
+cache/

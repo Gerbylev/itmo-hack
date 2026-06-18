@@ -1,0 +1,9 @@
+accelerate
+faiss-cpu
+huggingface-hub
+numpy
+pandas
+sentence-transformers
+torch
+tqdm
+transformers
